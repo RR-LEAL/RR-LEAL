@@ -1,16 +1,15 @@
-### Hi there 👋
+# Falaaaa Galera! Beleza? Eu sou o Rodrigo 👋
 
-<!--
-**RR-LEAL/RR-LEAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 Atualmente estou aprendendo: **HTML, CSS, JAVASCRIPT, NODE.JS, GIT e MYSQL**
+- 🤔 Eu estou procurando ajuda para conseguir uma oportunidade de entrar no mercado para adquirir experiencia.
+- 📫 Você pode entrar em contato comigo atravez do email: contato@rodrigoleal.dev.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+  <a href="https://github.com/RR-LEAL">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RR-LEAL&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RR-LEAL&layout=compact&langs_count=7&theme=react"/>
+</div>
+
+ 
