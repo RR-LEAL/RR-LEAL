@@ -21,7 +21,7 @@
     <img align="center" alt="RR-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="RR-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="RR-MYSQL" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="right"  alt="RR-pic" height="150" style="border-radius:50px" src="https://share-cdn.picrew.me/shareImg/org/202111/338224_ZVNLg2Hx.png">
+    <img align="left"  alt="RR-pic" height="150" style="border-radius:50px" src="https://share-cdn.picrew.me/shareImg/org/202111/338224_ZVNLg2Hx.png">
   </div>
  
   ## REDE DE CONTATOS
@@ -30,10 +30,9 @@
   
   <a href="https://www.instagram.com/rodrigo.rodriguesleal.9/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/lealdigo" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/UuyyFTA5KZ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://discord.gg/UuyyFTA5KZ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contato@rodrigoleal.dev.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-rodrigues-leal-b6020b151/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
  
 </div>
   
