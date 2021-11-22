@@ -24,7 +24,7 @@
     <img align="right" alt="RR-pic" height="150" style="border-radius:50px" src="https://share-cdn.picrew.me/shareImg/org/202111/338224_ZVNLg2Hx.png">
   </div>
  
-  ## REDES DE CONTATOS
+  ## REDE DE CONTATOS
   
   <div> 
   
