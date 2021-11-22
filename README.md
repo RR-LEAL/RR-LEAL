@@ -20,6 +20,6 @@
   <img align="center" alt="RR-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="RR-MYSQL" height="30" width="40" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:http://rodrigoleal.dev.br">             <img align="center" alt="RR-MYSQL" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
                                                                  
-  <img align="right" alt="RR-pic" height="150" src="https://share-cdn.picrew.me/shareImg/org/202111/338224_ZVNLg2Hx.png">
+  <img align="right" alt="RR-pic" height="150" style="border-radius:50px src="https://share-cdn.picrew.me/shareImg/org/202111/338224_ZVNLg2Hx.png">
   </div>
  
