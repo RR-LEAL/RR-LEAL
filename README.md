@@ -1,7 +1,7 @@
 # Falaaaa Galera! Beleza? Eu sou o Rodrigo 👋
 
 
-- 🌱 Atualmente estou aprendendo: **HTML, CSS, JAVASCRIPT, NODE.JS, GIT e MYSQL**
+- 🌱 Atualmente estou aprendendo: **HTML, CSS, JAVASCRIPT, GIT e MYSQL**
 - 🤔 Eu estou procurando ajuda para conseguir uma oportunidade de entrar no mercado para adquirir experiencia.
 - 📫 Você pode entrar em contato comigo atravez do email: contato@rodrigoleal.dev.br
 
