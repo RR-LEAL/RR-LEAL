@@ -20,7 +20,6 @@
     <img align="center" alt="RR-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="RR-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img align="center" alt="RR-MYSQL" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-    <img align="right"  alt="RR-pic" height="150" style="border-radius:50px" src="https://share-cdn.picrew.me/shareImg/org/202111/338224_ZVNLg2Hx.png">
   </div>
  
   ## REDE DE CONTATOS
